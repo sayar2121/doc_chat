@@ -1,5 +1,5 @@
 # 📄 DocChat — RAG-Based Document Chatbot
-Final year B.Tech project | Computer Science | AI/ML
+ Computer Science | AI/ML
 
 ## 🚀 Run in 3 steps
 
