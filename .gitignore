@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+uploads/
+vector_store/
+chat_history.db
+.streamlit/secrets.toml
