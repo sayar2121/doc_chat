@@ -78,7 +78,7 @@ with st.sidebar:
         "Paste your key here",
         type="password",
         value=st.session_state.api_key,
-        placeholder="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",
+        placeholder="********************",
         help="Get free key at aistudio.google.com",
     )
     if key_input:
